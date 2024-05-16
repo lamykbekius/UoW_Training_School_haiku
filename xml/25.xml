@@ -26,7 +26,7 @@
         <body>
             <p source="keystrokes">
               <del seq="000744" type="context" evidence="131"><add seq="000003" type="nt" evidence="1">haiku 5-7-5<lb/></add></del>
-              <add seq="000209" type="nt" evidence="37-54"><del seq="000102" type="context" evidence="102">b</del><add seq="000322" type="context" evidence="105">B</add>utterfly keyboard<lb/></add>
+              <add seq="000209" type="nt" evidence="37-54"><del seq="000321" type="context" evidence="102">b</del><add seq="000322" type="context" evidence="105">B</add>utterfly keyboard<lb/></add>
               <add seq="000038" type="nt" evidence="14-26"><add seq="000242" type="context" evidence="62-72">it is like </add>typing on <del seq="000230" type="context" evidence="55">k<del seq="000114" type="typo" evidence="27-28">ye</del></del></add><del seq="000230" type="context" evidence="55-56"><add  seq="000115" type="nt" evidence="29-35">eyboard</add></del><add  seq="000232" type="context" evidence="58-60">Air<lb/></add>
               <add seq="000303" type="nt" evidence="75-96"><del seq="000317" type="context" evidence="98">until</del><add seq="000318" type="context" evidence="99-100">but</add> it flies no more<lb/></add>
               <add seq="000623" type="nt" evidence="109-123"><add seq="000704" type="context" evidence="125-128">but </add>season is short<lb/><lb/></add>
